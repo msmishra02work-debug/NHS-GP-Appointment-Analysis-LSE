@@ -121,9 +121,3 @@ jupyter notebook notebooks/LSE_TP_DA201_Assignment_Final.ipynb
 LSE Data Analytics using Python | DA201
 [LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
 ```
-
----
-
-Once your score is released, just edit the README and add this badge next to the LSE badge:
-```
-![Score](https://img.shields.io/badge/Assignment%20Score-XX%25-brightgreen)
